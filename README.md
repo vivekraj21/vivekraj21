@@ -3,10 +3,10 @@
 <img align="right" alt="Coding" width="400" src="https://us.123rf.com/450wm/7romawka7/7romawka71901/7romawka7190100004/126259705-cute-little-boy-creating-smart-robot-robotics-and-programming-it-coding-for-kids-vector-illustration.jpg?ver=6"> 
 
 - 💬 Ask me about **Backend Development**
-- 💻 Portfolio **vivekraj21.github.io**
+- 💻 [PORTFOLIO](vivekraj21.github.io)
 - 📫 How to reach me **vivekrajrollno21@gmail.com**
-- 📄 Resume [Link](https://drive.google.com/file/d/1G-ng6BqGpH8Z2tQgjQpaMJvS0Wp-G31D/view?usp=sharing)
-- LinkedIn **https://www.linkedin.com/in/vivek-raj-443aa814a/**
+- 📄 [RESUME](https://drive.google.com/file/d/1G-ng6BqGpH8Z2tQgjQpaMJvS0Wp-G31D/view?usp=sharing)
+- [LINKEDIN](https://www.linkedin.com/in/vivek-raj-443aa814a/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-raj-443aa814a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-raj-443aa814a/" height="30" width="40" /></a>
