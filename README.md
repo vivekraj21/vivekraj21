@@ -5,7 +5,7 @@
 - 💬 Ask me about **Backend Development**
 - 💻 Portfolio **vivekraj21.github.io**
 - 📫 How to reach me **vivekrajrollno21@gmail.com**
-- 📄 Resume **Link**(https://drive.google.com/file/d/1G-ng6BqGpH8Z2tQgjQpaMJvS0Wp-G31D/view?usp=sharing)
+- 📄 Resume [Link](https://drive.google.com/file/d/1G-ng6BqGpH8Z2tQgjQpaMJvS0Wp-G31D/view?usp=sharing)
 - LinkedIn **https://www.linkedin.com/in/vivek-raj-443aa814a/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
