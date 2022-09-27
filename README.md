@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vivek Raj</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://us.123rf.com/450wm/7romawka7/7romawka71901/7romawka7190100004/126259705-cute-little-boy-creating-smart-robot-robotics-and-programming-it-coding-for-kids-vector-illustration.jpg?ver=6">
-- 👨‍💻 All of my projects are available at [vivekraj21.github.io](vivekraj21.github.io)
+<img align="right" alt="Coding" width="400" src="https://us.123rf.com/450wm/7romawka7/7romawka71901/7romawka7190100004/126259705-cute-little-boy-creating-smart-robot-robotics-and-programming-it-coding-for-kids-vector-illustration.jpg?ver=6"> 
 
 - 💬 Ask me about **Backend Development**
-- Portfolio vivekraj21.github.io
-
+- 💻 Portfolio **vivekraj21.github.io**
 - 📫 How to reach me **vivekrajrollno21@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/drive/u/1/my-drive)
-
+- 📄 Resume **https://drive.google.com/drive/u/1/my-drive**
+- LinkedIn **https://www.linkedin.com/in/vivek-raj-443aa814a/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-raj-443aa814a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-raj-443aa814a/" height="30" width="40" /></a>
