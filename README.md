@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Raj</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://us.123rf.com/450wm/7romawka7/7romawka71901/7romawka7190100004/126259705-cute-little-boy-creating-smart-robot-robotics-and-programming-it-coding-for-kids-vector-illustration.jpg?ver=6"> 
+<h3 align="center">A passionate Backend developer from India.</h3>
+<p>A passionate focused, and enthusiastic Java Full-stack web developer. An effective team player and excited to implement his skills with meaningful real-life problem-solving products. Looking forward to boosting skills and gaining experience in a growth-oriented organization.
+
+I am excited how software are making our life easy.I am also enjoy learning new technologies and skills which help me to build real life problem solving projects
+<img align="right" alt="Coding" width="400" src="https://us.123rf.com/450wm/7romawka7/7romawka71901/7romawka7190100004/126259705-cute-little-boy-creating-smart-robot-robotics-and-programming-it-coding-for-kids-vector-illustration.jpg?ver=6"> </p>
 
 - 💬 Ask me about **Backend Development**
 - 📫 How to reach me **vivekrajrollno21@gmail.com**
