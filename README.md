@@ -20,9 +20,9 @@ based on user feedback.</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekraj21&show_icons=true&locale=en&layout=compact" alt="vivekraj21" /></p>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1000/1*MGJ4SU-OpBkfPDWksxG0jQ.jpeg">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekraj21&show_icons=true&locale=en" alt="vivekraj21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekraj21&" alt="vivekraj21" /></p>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1000/1*MGJ4SU-OpBkfPDWksxG0jQ.jpeg">
 
