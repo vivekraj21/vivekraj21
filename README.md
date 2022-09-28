@@ -9,7 +9,7 @@ I am excited how software are making our life easy.I am also enjoy learning new 
 - 📫 How to reach me **vivekrajrollno21@gmail.com**
 - 📄 [RESUME](https://drive.google.com/file/d/1j1jnzgQJAaqF12-PQ4r_Hw2dYFr0BpaM/view?usp=sharing)
 - 💻 [LINKEDIN](https://www.linkedin.com/in/vivek-raj-443aa814a)
-- 📄 [PORTFOLIO](vivekraj21.github.io)
+- 📄 [PORTFOLIO](https://funny-paletas-9d8c80.netlify.app/)
 
 
 <h3 align="left">Languages and Tools:</h3>
