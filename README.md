@@ -6,7 +6,7 @@
 - 📫 How to reach me **vivekrajrollno21@gmail.com**
 - 📄 [RESUME](https://drive.google.com/file/d/1j1jnzgQJAaqF12-PQ4r_Hw2dYFr0BpaM/view?usp=sharing)
 - 💻 [LINKEDIN](https://www.linkedin.com/in/vivek-raj-443aa814a)
-<h3 align="left">Connect with me:</h3>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
