@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer
+  Software Developer
 </h3>
 
 <p align="center">
