@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Java Backend Developer
+  Full Stack Developer
 </h3>
 
 <p align="center">
-  I am an aspiring JAVA Backend Developer with creative and analytical skills. Proficient in troubleshooting simple/complex issues and implementing new features based on user feedback.
+  
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### 💬 Ask me about Backend Development
+### 💬 Ask me about Asynchronous Programming, Vert.x, Java, Spring, VueJs
 ### 📫 How to reach me: [vivekrajrollno21@gmail.com](mailto:vivekrajrollno21@gmail.com)
 ### 📄 [RESUME](https://drive.google.com/file/d/1j1jnzgQJAaqF12-PQ4r_Hw2dYFr0BpaM/view?usp=sharing)
 ### 💻 [LINKEDIN](https://www.linkedin.com/in/vivek-raj-443aa814a)
