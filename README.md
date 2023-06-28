@@ -16,7 +16,7 @@
 
 ---
 
-### 💬 Ask me about Asynchronous Programming, Vert.x, Java, Spring, VueJs
+### 💬 Ask me about Asynchronous Programming, Vert.x, Java, Spring, VueJs, Database Design
 ### 📫 How to reach me: [vivekrajrollno21@gmail.com](mailto:vivekrajrollno21@gmail.com)
 ### 📄 [RESUME](https://drive.google.com/file/d/1j1jnzgQJAaqF12-PQ4r_Hw2dYFr0BpaM/view?usp=sharing)
 ### 💻 [LINKEDIN](https://www.linkedin.com/in/vivek-raj-443aa814a)
